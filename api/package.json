@@ -7,16 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/agents-on-cloud/api.logistics.agentsoncloud.com.git"
+    "type": "git"
+
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/agents-on-cloud/api.logistics.agentsoncloud.com/issues"
+ 
   },
-  "homepage": "https://github.com/agents-on-cloud/api.logistics.agentsoncloud.com#readme",
+
   "dependencies": {
     "@sequelize/core": "^7.0.0-alpha.10",
     "cors": "^2.8.5",
